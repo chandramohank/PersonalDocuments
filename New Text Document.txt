@@ -1,0 +1,10 @@
+Your Registration Number is : DELSO/E/2015/07512
+The Grievance is lodged with the office : EPFO, RO, Delhi(South)
+Officer's Name : Shri JAYANT KUMAR PANDEY
+Phone Number : 01128050753
+Email ID : grievance.dls@epfindia.gov.in
+
+
+http://gauravmantri.com/2013/01/23/building-a-simple-task-scheduler-in-windows-azure/
+https://open.bekk.no/#!windows-azure-scheduler-part-1-introduction
+http://geekswithblogs.net/charliemott/archive/2012/10/08/azure-task-scheduling-options.aspx
