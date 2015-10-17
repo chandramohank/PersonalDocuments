@@ -8,3 +8,9 @@ Email ID : grievance.dls@epfindia.gov.in
 http://gauravmantri.com/2013/01/23/building-a-simple-task-scheduler-in-windows-azure/
 https://open.bekk.no/#!windows-azure-scheduler-part-1-introduction
 http://geekswithblogs.net/charliemott/archive/2012/10/08/azure-task-scheduling-options.aspx
+
+http://fabriccontroller.net/blog/posts/a-complete-overview-to-get-started-with-the-windows-azure-scheduler/
+
+https://github.com/azure-contrib/scriptcs-azuremanagement
+http://blog.logiticks.com/programmatically-creating-azure-scheduler-using-c/
+http://geekswithblogs.net/shaunxu/archive/2013/12/16/use-windows-azure-scheduler-through-.net-sdk.aspx
