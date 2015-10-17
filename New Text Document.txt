@@ -14,3 +14,4 @@ http://fabriccontroller.net/blog/posts/a-complete-overview-to-get-started-with-t
 https://github.com/azure-contrib/scriptcs-azuremanagement
 http://blog.logiticks.com/programmatically-creating-azure-scheduler-using-c/
 http://geekswithblogs.net/shaunxu/archive/2013/12/16/use-windows-azure-scheduler-through-.net-sdk.aspx
+http://www.codeproject.com/Articles/679627/How-to-use-the-preview-of-the-new-Azure-Management
